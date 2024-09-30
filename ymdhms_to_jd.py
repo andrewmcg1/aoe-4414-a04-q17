@@ -17,7 +17,6 @@
 # import Python modules
 import math # math module
 import sys # argv
-import numpy as np
 
 # "constants"
 R_E_KM  = 6378.1363
